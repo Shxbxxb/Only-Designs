@@ -191,7 +191,7 @@
 </head>
 <body><header>
     <div style="text-align: center;">
-        <img src="c:\Users\Shabeeb Siddiqui\Desktop\OnlyDesigns Website\Pictures\SharedScreenshot.jpg" alt="OnlyDesigns Logo" style="width: 120px; height: auto; border-radius: 50%; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
+        <img src="Pictures\SharedScreenshot.jpg" alt="OnlyDesigns Logo" style="width: 120px; height: auto; border-radius: 50%; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
     </div>
     <h1>Welcome to OnlyDesigns</h1>
     <p>Your trusted partner for assignments.</p>
